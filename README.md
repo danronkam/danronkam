@@ -24,7 +24,6 @@
   </a>
 </p>
 
-[![danronkam's GitHub stats](https://github-readme-stats.vercel.app/api?username=danronkam)](https://github.com/danronkam/github-readme-stats)
 
 
 
